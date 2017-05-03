@@ -1,0 +1,8 @@
+ls
+pwd
+ls
+cd ..
+wc < MakeFile
+echo "hello" > 1.txt
+ls
+clear

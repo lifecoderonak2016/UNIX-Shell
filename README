@@ -1,0 +1,11 @@
+This is my implementation of the UNIX Shell in C Language
+
+Instructions to compile
+
+1. Open the terminal and enter into the particular directory. Then execute the make command which will compile the code
+2. Then execute ./shell
+3. For File I/O, we can execute the echo command.
+4. Ex- echo "Hello World" > 1.txt creates a new file named 1.txt and inserts the text "Hello World" into it.
+5. Ex- wc < 1.txt command gives the count of the number of lines, words and characters in the file.
+6. All the commands like clear, ls, cd, pwd, kill can be entered in the console.
+7. The code generates a help file which acts as a instruction manual of all the commands implemented.

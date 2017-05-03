@@ -1,0 +1,5 @@
+cd
+history
+ls
+pwd
+clear
